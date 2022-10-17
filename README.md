@@ -8,11 +8,10 @@ Module 19: Neural Networks and Deep Learning Models
 ### Data Preprocessing
 
 - What variable(s) are considered the target(s) for your model?
-- **Variable as model target.**
+- **Variable as model target.** The IS_SUCCESSFUL variable is the only model target. A value of 1 or 0 indicates that the funding money was uses either successfully or unsuccessfully. 
 - What variable(s) are considered to be the features for your model?
 - **Variables as model features.**
 - What variable(s) are neither targets nor features, and should be removed from the input data?
-- **Variables that are neither targets nor features.**
 
 ### Compiling, Training, and Evaluating the Model
 
